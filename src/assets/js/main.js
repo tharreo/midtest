@@ -1,3 +1,8 @@
+import Typed from "typed.js";
+import Swiper from "swiper";
+import Isotope from "isotope-layout";
+import GLightbox from "glightbox";
+
 /**
  * Template Name: Folio
  * Updated: May 30 2023 with Bootstrap v5.3.0

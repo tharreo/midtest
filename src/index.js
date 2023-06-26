@@ -1,10 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "../src/index.css";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import "../src/assets/css/style.css";
+import "../src/assets/js/main.js";
+import Typed from "typed.js";
+import Swiper from "swiper";
+import Isotope from "isotope-layout";
+import GLightbox from "glightbox";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <App />

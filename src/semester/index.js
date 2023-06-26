@@ -1,5 +1,5 @@
 import React from "react";
-import "../../assets/css/style.css";
+import "../assets/css/style.css";
 
 function ServicesSection() {
   return (
@@ -18,7 +18,7 @@ function ServicesSection() {
                 <p classname="separator">Online Class</p>
               </div>
             </div>
-            {"{"}/* End testimonial item */{"}"}
+
             <div classname="swiper-slide">
               <div classname="services-block">
                 <i classname="bi bi-binoculars" />
@@ -26,7 +26,7 @@ function ServicesSection() {
                 <p classname="separator">Akhirnya masuk kampus</p>
               </div>
             </div>
-            {"{"}/* End testimonial item */{"}"}
+
             <div classname="swiper-slide">
               <div classname="services-block">
                 <i classname="bi bi-brightness-high" />
@@ -34,7 +34,7 @@ function ServicesSection() {
                 <p classname="separator">Sudah jadi kakak tingkatt yayy</p>
               </div>
             </div>
-            {"{"}/* End testimonial item */{"}"}
+
             <div classname="swiper-slide">
               <div classname="services-block">
                 <i classname="bi bi-calendar4-week" />
@@ -42,7 +42,7 @@ function ServicesSection() {
                 <p classname="separator">Kuliah mulai berat :(</p>
               </div>
             </div>
-            {"{"}/* End testimonial item */{"}"}
+
           </div>
           <div classname="swiper-pagination" />
         </div>

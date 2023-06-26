@@ -1,5 +1,5 @@
 import React from "react";
-import "../../assets/css/style.css";
+import "../assets/css/style.css";
 import pic3 from "../assets/img/3.jpg";
 
 function AboutSection() {
